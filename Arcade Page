@@ -1,0 +1,98 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+	<title>Arcade Games</title>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="asubtlegreen.css" />
+</head>
+<body>
+
+ 
+</audio>
+<div id="page"> 
+    <div id="header">
+    	<div class="title">Game Mania</div>
+        <div class="subText">Back to <a href="game.html">Game Mania</a></div>
+    </div>
+    <div id="bar">
+                <div class="menuLink"><a href="shooting.html">Shooting Games</a></div>
+        <div class="menuLink"><a href="sport.html">Sport Games</a></div>
+        <div class="menuLink"><a href="arcade.html">Arcade Games</a></div>
+        <div class="menuLink"><a href="girly.html">Girly Games</a></div>
+        <div class="menuLink"><a href="driving.html">Driving Games</a></div>
+    </div>
+    <div id="pageContent">
+    
+    <div class="articleTitle">Arcade Games</div>
+        
+        
+      <div class="articleContent">
+      
+      <div class="rightLinks">
+            <div class="linkTitle">Further info:</div>
+    			<p class="links">
+                <a href="advert.html">Advertisors wanted</a><br />
+                <a href="links.html">Click here for other sites</a><br />
+				</p>
+        </div>
+          
+
+
+</br>
+<table align="left" width="80%">
+<td> <span title="Angry Birds Halloween HD"><a href="arcade/angry birds halloween.html"><img src="arcade/angry birds halloween.jpg" height="85" width="85"></span></a></td><td> <span title="Heroes battle 2"><a href="arcade/heroes battle 2.html"> <img src ="arcade/heroes battle 2.jpg"height="85" width="85"></span></a></td><td> <span title="Stormy Castles"><a href="arcade/stormy castles.html"> <img src ="arcade/stormy castle.jpg"height="85" width="85"></span></a></td>
+ <td> <span title="Mario Super Adventure 4"><a href="arcade/mario super adventure 4.html"><img src="arcade/mario super adventure 4.jpg" height="85" width="85"></span></a></td>
+
+<tr>
+
+
+
+
+
+
+<td> <span title="Mass Mathem 5:Expansion"><a href="arcade/mass mayhem 5 expansion.html"><img src="arcade/mass mayhem 5 expansion.jpg" height="85" width="85"></a></span></td>  <td><span title="Frizzle Fraz 3"><a href="arcade/frizzle fraz 3.html"><img src="arcade/frizzle fraz 3.jpg" height="85" width="85"></a></span></td>
+<td> <span title="Ben 10 vs Aliens "><a href="arcade/ben 10 vs aliens.html"><img src="arcade/ben 10 vis aliens.jpg" height="85" width="85"></a></span></td> <td><span title="Bouncing Crimlet"><a href="arcade/bouncing crimlet.html"><img src="arcade/bouncing crimlet.jpg" height="85" width="85"></a></span></td>
+
+
+<tr>
+
+<td> <span title="Mario Motor Cross"><a href="arcade/mario motor cross.html"><img src="arcade/mario motor cross.jpg" height="85" width="85"></span></a></td><td> <span title="batman Monster Trucks"><a href="arcade/batman monster truck.html"> <img src ="arcade/batman monster truck.jpg"height="85" width="85"></span></a></td><td> <span title="Rolling Angry Birds"><a href="arcade/rolling angry birds.html"> <img src ="arcade/rolling angry birds.jpg"height="85" width="85"></span></a></td>
+ <td> <span title="Hobo Vs Zombies"><a href="arcade/hobo vs zombies.html"><img src="arcade/hobo vs zombies.jpg" height="85" width="85"></span></a></td>
+
+<tr>
+<td> <span title="Comic Stars Figthing"><a href="comic stars figthing.html"><img src="arcade/comic starts figthing.jpg" height="85" width="85"></span></a></td><td> <span title="Hulk Rumble Defence 2"><a href="arcade/hulk rumble defence.html"> <img src ="arcade/hulk rumble defence.jpg"height="85" width="85"></span></a></td><td> <span title="Iron Man:Riot Of The Machine"><a href="arcade/iron man riot of machines.html"> <img src ="arcade/iron man riot of machines.jpg"height="85" width="85"></span></a></td>
+ <td> <span title="Parkour Master"><a href="arcade/parkour master.html"><img src="arcade/parkour master.jpg" height="85" width="85"></span></a></td>
+<tr>
+
+
+<td> <span title="Counter Strike Fy Dare"><a href="shoot/counter strike fy dare.html"><img src="shoot/counter strike fy dare.jpg" height="85" width="85"></a></span></td>
+<td> <span title="American Soldier"><a href="shoot/american soldier.html"><img src="shoot/american soldier.jpg" height="85" width="85"></a></span></td>
+<td> <span title="Blue Diamond Chase 2"><a href="arcade/blue diamond chase 2.html"><img src="arcade/blue diamond chase 2.jpg" height="85" width="85"></a></span></td>
+<td> <span title="Super Mario Jump"><a href="arcade/super mario jump.html"><img src="arcade/super mario jump.jpg" height="85" width="85"></a></span></td>
+
+
+
+
+
+
+
+
+<tr>
+
+<div id="footer"><a href="http://www.aszx.net">web development</a> by <a href="http://www.bryantsmith.com">bryant smith</a></div>
+
+	</div>
+
+
+    </div>
+
+   
+   
+</div>
+<div id="footer"><a href="http://www.aszx.net">web developmentby <a href="http://www.bryantsmith.com">bryant smith</a></div>    
+        
+</body>
+</html>
